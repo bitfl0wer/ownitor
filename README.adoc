@@ -1,4 +1,4 @@
 # ownitor
 
-## [.line-through]#Your# My own little monitoring and redundancy script
+My own little monitoring and redundancy script
 Ownitor is supposed to be a script to help to set up automated redundant backup-fallbacks for services like Nextcloud, a Discord Bot or other things.
